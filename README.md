@@ -1,5 +1,3 @@
-Telegram bot for training English
-  
 Features:
 * Memorizes a word in English and its translation using the user's command /addword;
 * Deletes a word from the dictionary at the user's command /deleteword (for example, /deleteword chicken);
